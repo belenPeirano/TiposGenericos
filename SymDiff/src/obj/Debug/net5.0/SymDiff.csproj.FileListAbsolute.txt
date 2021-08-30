@@ -1,0 +1,16 @@
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\SymDiff.exe
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\SymDiff.deps.json
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\SymDiff.runtimeconfig.json
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\SymDiff.runtimeconfig.dev.json
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\SymDiff.dll
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\ref\SymDiff.dll
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\bin\Debug\net5.0\SymDiff.pdb
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.csproj.AssemblyReference.cache
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.AssemblyInfoInputs.cache
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.AssemblyInfo.cs
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.csproj.CoreCompileInputs.cache
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.dll
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\ref\SymDiff.dll
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.pdb
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\SymDiff\src\obj\Debug\net5.0\SymDiff.genruntimeconfig.cache

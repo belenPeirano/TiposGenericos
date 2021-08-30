@@ -1,0 +1,13 @@
+al usar "void" antes del nombre del método se afirma que ese método no devuelve nada. Para devolver se usa return igual que en py
+
+dotnet new console
+
+para ejecutar un programa ejecutamos dotnet build y eso construye un programa ejecutable y despues dotnet run
+
+this. es lo mismo que self.
+
+	para la semana proxima:
+
+	1. agregar metodo que ataca un personaje a otro (foto wpp)
+	2. Leer Ayuda C# para programadores Phyton
+	3. Tarea Domiciliaria Phyton a C#
