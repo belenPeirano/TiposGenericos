@@ -1,0 +1,39 @@
+Link al repositorio: https://github.com/belenPeirano/Hola-mundo1.git
+
+C:\Users\belu_>cd "OneDrive\Escritorio\UCU\2 semestre\P2\Hola-mundo"
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola-mundo>git init
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola-mundo>git add README.md
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola-mundo>git commit -m "Commit inicial"
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola-mundo>git pull origin main --allow-unrelated-histories
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola-mundo>git branch --set-upstream-to=origin/main main
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo>git clone https://github.com/belenPeirano/Hola-mundo1.git
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo>cd Hola-mundo1
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git branch -m dev
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git status
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git add README.md
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git commit -m "Cambios en la rama"
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git push origin dev
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git push
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git push origin HEAD
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git checkout main
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git merge dev
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git push origin main
+
+C:\Users\belu_\OneDrive\Escritorio\UCU\2 semestre\P2\Hola_mundo\Hola-mundo1>git branch -d dev

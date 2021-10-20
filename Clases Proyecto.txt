@@ -1,0 +1,28 @@
+Empresa-Offeree: nombre, ubicacion, rubro, habilitaciones, especificaciones
+
+
+Emprendedor-Bidder: nombre, ubicacion, rubro, habilitaciones, especificaciones
+
+
+Ofertas: 
+
+
+Materiales: categoria, palabras clave, zona, nombre, cantidad, unidad, descripcion, costo bool, traslado? bool, 
+
+
+Historial: 
+
+
+Sesión: 
+
+
+ReadMessage:
+
+
+MessageInterpreter:
+
+
+ReplayMessage:
+
+
+Admin: 
